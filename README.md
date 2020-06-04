@@ -1,2 +1,0 @@
-# EMEKAH
-First Landing Page
